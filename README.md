@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android (Java)**
 
-- 📫 How to reach me **sysgrsn@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
