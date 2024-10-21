@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **.NET**
 
-- 💬 Ask me about **Android (Java)**
+- 💬 Ask me about **Android (Java/Kotlin)**
 
 
 
